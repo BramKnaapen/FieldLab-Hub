@@ -1,6 +1,6 @@
 # FieldLab-Hub
 
-Gemaakt door: Bram Knaapen
+Gemaakt door: Bram Knaapen, Ruben Stap
 
 ---
 
@@ -12,47 +12,37 @@ Welkom bij Fieldlab Hub! Dit is de plek waar je gave projecten kunt vinden en st
 
 Je moet een connectie met de database krijgen. Dus je gaat tabels invullen. Gelukkig hebben wij dit al voor jou gedaan. Zorg ervoor dat je MySQL heb geinstalleerd.
 
-
 #### Stap 1:
 
 Kopieer het project van GitHub en zet het in een server.
-
 
 #### Stap 2:
 
 Kopieer het "Import.sql" bestand en plaats het in MySQL.
 
-
 #### Stap 3:
 
 Als het goed is heb je nu een "fieldlabhub" database en een aantal tables.
-
 
 #### Stap 4:
 
 Nu kan je beginnen met projecten aanmaken of inschijven.
 
-
 ---
-
-
 
 ## Opdrachtgevers toevoegen via Database
 
 Aangezien we geen Admin Panel hebben moet je zelf je opdrachtgever toevoegen. Dit is hoe je dit doet:
 
-
-#### Stap 1: 
+#### Stap 1:
 
 Kies de persoon wie je 'Opdrachtgever' wilt maken.
-
 
 #### Stap 2:
 
 Klik op 'rol' en voer 'Opdrachtgever' in.
 
-
-#### Stap 3: 
+#### Stap 3:
 
 Klik op opslaan
 Je bent klaar.
