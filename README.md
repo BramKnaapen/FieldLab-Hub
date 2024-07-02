@@ -1,6 +1,6 @@
 # FieldLab-Hub
 
-Gemaakt door: Bram Knaapen, Ruben Stap en Thijn
+Gemaakt door: Bram Knaapen, Ruben Stap en Thijn Huisman
 
 ---
 
